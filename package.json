@@ -1,0 +1,19 @@
+{
+  "name": "doing-set",
+  "version": "1.0.0",
+  "description": "Doing Basic Set.",
+  "main": "src/doing-set.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebranc-package/doing-set.git"
+  },
+  "author": "lebrancconvas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebranc-package/doing-set/issues"
+  },
+  "homepage": "https://github.com/lebranc-package/doing-set#readme"
+}
